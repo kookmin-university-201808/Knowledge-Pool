@@ -56,4 +56,4 @@ Knowledge-Pool는 이러한 일을 막기 위해 옳고 진실된 정보를 제�
 - 상황에 따라 3단계로 돌아갈 수 있음.
 
 ## 구조
-https://user-images.githubusercontent.com/42333067/44041845-b5b72b5c-9f59-11e8-8a7e-57ebb82c9a99.jpg
+![default](https://user-images.githubusercontent.com/42333067/44041845-b5b72b5c-9f59-11e8-8a7e-57ebb82c9a99.jpg)
